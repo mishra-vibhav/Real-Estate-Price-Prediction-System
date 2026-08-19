@@ -29,5 +29,3 @@ ENV/
 *.swo
 *~
 .DS_Store
-models/
-data/
