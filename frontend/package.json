@@ -1,0 +1,22 @@
+{
+  "name": "real-estate-predictor",
+  "version": "1.0.0",
+  "description": "Real estate price prediction with machine learning",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.2",
+    "recharts": "^2.10.3",
+    "react-hot-toast": "^2.4.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
